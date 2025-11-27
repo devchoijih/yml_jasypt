@@ -11,7 +11,3 @@ Spring Boot 환경에서 **Jasypt를 이용한 application.yml 암호화** 예�
 - Spring Boot 3.x  
 - Java 17+  
 - jasypt-spring-boot-starter
-
-## 🚀 실행 방법
-```bash
-java -Djasypt.encryptor.password=비밀키 -jar 프로젝트.jar
